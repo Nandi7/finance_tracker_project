@@ -1,0 +1,29 @@
+date,amount,category,description
+20-07-2024,200,Income,Salary
+12-02-2026,200.0,Income,Main job
+03-03-2023,20.0,Income,Hustle
+02-03-2025,230.0,Expense,Trip
+15-01-2025,1500,Income,Monthly salary
+20-01-2025,250,Expense,Groceries
+22-01-2025,80,Expense,Transport
+25-01-2025,120,Expense,Restaurant
+01-02-2025,1500,Income,Monthly salary
+05-02-2025,300,Expense,Shopping
+10-02-2025,50,Expense,Cinema
+15-02-2025,200,Expense,Electricity
+01-03-2025,1500,Income,Monthly salary
+05-03-2025,180,Expense,Groceries
+10-03-2025,100,Expense,Internet
+15-03-2025,250,Expense,Clothes
+01-04-2025,1600,Income,Monthly salary
+05-04-2025,220,Expense,Groceries
+12-04-2025,90,Expense,Transport
+20-04-2025,300,Expense,Travel
+01-05-2025,1600,Income,Monthly salary
+05-05-2025,200,Expense,Groceries
+10-05-2025,150,Expense,Entertainment
+15-05-2025,75,Expense,Restaurant
+01-06-2025,1700,Income,Monthly salary
+05-06-2025,230,Expense,Groceries
+10-06-2025,100,Expense,Transport
+15-06-2025,400,Expense,Vacation
